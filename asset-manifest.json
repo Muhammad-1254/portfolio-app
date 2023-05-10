@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.9d549e1a.css",
+    "main.js": "/portfolio-app/static/js/main.ca5a8a34.js",
+    "static/media/realestate.jpg": "/portfolio-app/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/workImg.jpeg": "/portfolio-app/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/portfolio-app/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/portfolio-app/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/portfolio-app/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/portfolio-app/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/testimonials-4.jpg": "/portfolio-app/static/media/testimonials-4.58081dc8c31bc0e1cb6c.jpg",
+    "static/media/html.png": "/portfolio-app/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio-app/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio-app/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-app/index.html",
+    "main.9d549e1a.css.map": "/portfolio-app/static/css/main.9d549e1a.css.map",
+    "main.ca5a8a34.js.map": "/portfolio-app/static/js/main.ca5a8a34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d549e1a.css",
+    "static/js/main.ca5a8a34.js"
+  ]
+}
